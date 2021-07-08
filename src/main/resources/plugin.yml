@@ -1,0 +1,12 @@
+name: hellow
+version: 1.1.1
+main: cf.thdisstudio.hellow
+authors: [ yst, dunchen__ ]
+description: asdfujop''dsdafjop;;sdfajiop;;p
+website: http:://thdisstudio.cf
+commands:
+  사업자:
+    description: 이름
+permissions:
+  Thdis.CityHall.job:
+    description: 시청직원
